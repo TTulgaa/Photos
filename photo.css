@@ -1,0 +1,13 @@
+.bc1 {
+  background-image: url(./photos/Fox.jpg);
+  background-size: 400px 600px;
+  background-color: rgb(126, 121, 121);
+  background-blend-mode: multiply;
+  width: 400px;
+  height: 600px;
+}
+.bc2 {
+  display: flex;
+}
+.bc1:hover {
+}
